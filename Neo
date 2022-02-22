@@ -1,0 +1,904 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/9vTsBZy.png" group-title="Religiosos", RBC TV
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos", TV Novo Tempo SP
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos", TV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Religiosos", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3sfFiIj.png" group-title="Religiosos", Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos", Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="Religiosos", TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Cmdzs7v.png" group-title="TV Aberta", Canal Saúde
+http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="TV Aberta", CNT SP
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="TV Aberta", CNT RJ
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="TV Aberta", CNT RS
+http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="TV Aberta", CNT PR
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="TV Aberta", CNT DF
+http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="TV Aberta", TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="TV Aberta", UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta", Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta", Agro Brasil
+http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta", SBT PI
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta", SBT AM
+https://livefocamundo.com:8081/tvguajaraonline2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta", SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta", SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta", SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4Z9LYm.png" group-title="TV Aberta", RBTV SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d4Z9LYm.png" group-title="TV Aberta", RBTV PA
+http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IaRYqeD.png" group-title="TV Aberta", TV Brasil 2
+http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dECFjAJ.png" group-title="TV Aberta", TV Cultura SP
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dECFjAJ.png" group-title="TV Aberta", TV Cultura GO
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dECFjAJ.png" group-title="TV Aberta", TV Cultura RN
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dECFjAJ.png" group-title="TV Aberta", TV Cultura PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record BA
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record GO HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta", Record RS HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta", Rede TV SP
+http://50.7.34.155:2200/BR/Rede_TV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta", Rede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="TV Aberta", Rede TV PB
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta", TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta", Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes", Conmebol TV 1
+http://50.7.34.155:2200/BR/Conmebol_TV_01_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes", Conmebol TV 2
+http://50.7.34.155:2200/BR/Conmebol_TV_02_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1BG5rbs.png" group-title="Esportes", Conmebol TV 3
+http://50.7.34.155:2200/BR/Conmebol_TV_03_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes", TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ka06Cjw.png" group-title="Esportes", TNT Sports HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes", Woohoo
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HozFynS.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias", Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias", Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YGEVYXL.png" group-title="Notícias", Boston 25 News
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z9SzvD0.png" group-title="Notícias", Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YWaz2js.png" group-title="Notícias", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="Notícias", Porto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Notícias", RTP1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Notícias", RTP2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="Notícias", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IipATsJ.png" group-title="Notícias", Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I8c1wzx.png" group-title="Variedade e Músicas", Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NsT7bZs.png" group-title="Variedade e Músicas", Mega
+http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PvgbKOp.png" group-title="Variedade e Músicas", Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/crTVjrQ.png" group-title="Variedade e Músicas", América Latino
+http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E01
+https://assistonlineapi.online/make/check/?list=5bf8d19a7a3ce809
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E02
+https://assistonlineapi.online/make/check/?list=c8b2da2584db6498
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E03
+https://assistonlineapi.online/make/check/?list=d88d7d657eab2291
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E04
+https://assistonlineapi.online/make/check/?list=3059a53550c6e3a5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E05
+https://assistonlineapi.online/make/check/?list=d134899666792a09
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E06
+https://assistonlineapi.online/make/check/?list=1a72113faa32b911
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E07
+https://assistonlineapi.online/make/check/?list=760923025f2ce00f
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E08
+https://assistonlineapi.online/make/check/?list=9f9efac7ce2a5eb4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E09
+https://assistonlineapi.online/make/check/?list=2d95ee445d3610f7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E10
+https://assistonlineapi.online/make/check/?list=9233b1ff6c57ac6a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E11
+https://assistonlineapi.online/make/check/?list=27293b4bb1f332d5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E12
+https://assistonlineapi.online/make/check/?list=7c4e0309223d2996
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E13
+https://assistonlineapi.online/make/check/?list=4add9dfbfae92f94
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E14
+https://assistonlineapi.online/make/check/?list=3e87077cf18f276d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E15
+https://assistonlineapi.online/make/check/?list=940fed2f176531d9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E16
+https://assistonlineapi.online/make/check/?list=b21d90a98446277e
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E17
+https://assistonlineapi.online/make/check/?list=affa4982b9b0f125
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E18
+https://assistonlineapi.online/make/check/?list=4fec0fa095e0f831
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E19
+https://assistonlineapi.online/make/check/?list=890cf1ee02d12031
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E20
+https://assistonlineapi.online/make/check/?list=35ef57e705d6bba
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E21
+https://assistonlineapi.online/make/check/?list=813476a4de699bd0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 1T-E22
+https://assistonlineapi.online/make/check/?list=b332d7bdb2741cfa
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E01
+https://assistonlineapi.online/make/check/?list=c0055ed18229b566
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E02
+https://assistonlineapi.online/make/check/?list=0f1e8a9c8e9eaee0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E03
+https://assistonlineapi.online/make/check/?list=fbaf7375e1a2418d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E04
+https://assistonlineapi.online/make/check/?list=d65f4bae863372e1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E05
+https://assistonlineapi.online/make/check/?list=3a91dca61c77f432
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E06
+https://assistonlineapi.online/make/check/?list=39ef0c846d50def2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E07
+https://assistonlineapi.online/make/check/?list=739a0716ab938910
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E08
+https://assistonlineapi.online/make/check/?list=dba0f0dc0c0dc7e6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E09
+https://assistonlineapi.online/make/check/?list=f0bed431d6ca7afd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E10
+https://assistonlineapi.online/make/check/?list=d35e4f83541f0b88
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E11
+https://assistonlineapi.online/make/check/?list=971f53b81d21e48b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E12
+https://assistonlineapi.online/make/check/?list=4016083e0e80cb60
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E13
+https://assistonlineapi.online/make/check/?list=e14c77e78e6dae13
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E14
+https://assistonlineapi.online/make/check/?list=58f02d0451eff37c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E15
+https://assistonlineapi.online/make/check/?list=ee6ef612743cce61
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E16
+https://assistonlineapi.online/make/check/?list=c07f840470bc9f65
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E17
+https://assistonlineapi.online/make/check/?list=653153b2ed91b875
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E18
+https://assistonlineapi.online/make/check/?list=5796763e97dcb93c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E19
+https://assistonlineapi.online/make/check/?list=463e0fb221b89447
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E20
+https://assistonlineapi.online/make/check/?list=6000d7c13cccd3ea
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 2T-E21
+https://assistonlineapi.online/make/check/?list=c19fff236c889f41
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 3T-E09
+https://assistonlineapi.online/make/check/?list=f3d15c0fed4fdcdc
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 3T-E10
+https://assistonlineapi.online/make/check/?list=5f3c41ce5ad3e9b5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 3T-E11
+https://assistonlineapi.online/make/check/?list=c618a801bb71b241
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E01
+https://assistonlineapi.online/make/check/?list=1f6e41f799b96ef3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E02
+https://assistonlineapi.online/make/check/?list=d9825c788c9e26f8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E03
+https://assistonlineapi.online/make/check/?list=2aa23b529528759b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E04
+https://assistonlineapi.online/make/check/?list=145c0323057bed56
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E05
+https://assistonlineapi.online/make/check/?list=5f535613c8bf4439
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E06
+https://assistonlineapi.online/make/check/?list=4ff3806db5ef3800
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E07
+https://assistonlineapi.online/make/check/?list=cd5368a236396410
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E08
+https://assistonlineapi.online/make/check/?list=c3e44a0878c100b8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E09
+https://assistonlineapi.online/make/check/?list=f640a359d7185f70
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E10
+https://assistonlineapi.online/make/check/?list=98d51fbf73dc5981
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPtMsv3.jpg" group-title="Como Eu Conheci Sua Mãe", 4T-E11
+https://assistonlineapi.online/make/check/?list=fd9953a0e49fcf52
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E15
+https://assistonlineapi.online/make/check/?list=62ffa91afa138227
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E16
+https://assistonlineapi.online/make/check/?list=068498cfca63caf8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E17
+https://assistonlineapi.online/make/check/?list=7670f26841da40ff
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E18
+https://assistonlineapi.online/make/check/?list=ddcd7c2ce64bc9f6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E19
+https://assistonlineapi.online/make/check/?list=ab6fd1e223206b44
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E20
+https://assistonlineapi.online/make/check/?list=4980d596237d799d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E21
+https://assistonlineapi.online/make/check/?list=6de2ebca5a5994a4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E22
+https://assistonlineapi.online/make/check/?list=900c2cc2c0725544
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 2T-E23
+https://assistonlineapi.online/make/check/?list=5e3bfd7a456e5bed
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 3T-E01-02
+https://assistonlineapi.online/make/check/?list=632504458915cc52
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 3T-E03
+https://assistonlineapi.online/make/check/?list=f53e71aecd29addf
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VwDumiC.jpg" group-title="Scorpion", 3T-E04
+https://assistonlineapi.online/make/check/?list=ec8f60b8282a408e
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60b40d23c300b_4f53d06640cfdd2f881c54491bc1b0b6.jpg" group-title="Filmes On Demand", Os Últimos Dias de Billy the Kid
+http://videos.nxplay.com.br/hls/e325134cbce311ebad891615f31c5c36/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60b3b605b5f70_9f32945310fc5d33c689ff62372087f2.jpg" group-title="Filmes On Demand", Assassinos Anônimos
+http://videos.nxplay.com.br/hls/587b7b9eb9b611eb964baabe0d1b0434/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60b008727021c_41139130e40c3008590a4253d71cc3d6.jpg" group-title="Filmes On Demand", Um Punhado de Chumbo
+http://videos.nxplay.com.br/hls/3f58c688b68e11ebb4e432029e11c61a/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60a1d748974c4_4e96e3a53e0dbcc933ac70e063383445.jpg" group-title="Filmes On Demand", Crônicas da Tribo Fantasma
+http://videos.nxplay.com.br/hls/6f23beb2b66711eb922e3e8ac65d5c39/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60a13355738ec_94d44c14fad4bc12c8d86b33158fe750.jpg" group-title="Filmes On Demand", Um Agente Fora de Série
+http://videos.nxplay.com.br/hls/389adc62b5eb11eb9402a6455efdff01/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60a13353b354b_f364f303b453f1f9d7e5bb9a6f5733ca.jpg" group-title="Filmes On Demand", Call To Duty: Fora de Alcance
+http://videos.nxplay.com.br/hls/f489f0e4b5ea11ebb7b12e5a88a0c34a/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60a07b35503e2_305a10bcaa983afff468c33f52bb10b0.jpg" group-title="Filmes On Demand", Flashes
+http://videos.nxplay.com.br/hls/d8ba472e94d411eb99476a09d579caf3/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609ee03be8eb2_42fe3a0a8868a613853c83102ea10f75.jpg" group-title="Filmes On Demand", A Última Resistência
+http://videos.nxplay.com.br/hls/50499942972911ebb61cfa0aad643132/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609edf153673f_11ad5bcabd4199ccd1c8ed3184b0ab3d.jpg" group-title="Filmes On Demand", Caminho da Morte
+http://videos.nxplay.com.br/hls/9a7401f2971911ebb9049e0de523564a/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609b326b02263_787fa61ebed709fbea3a36a3af334cec.jpg" group-title="Filmes On Demand", Santos ou Soldados: A Ultima Missão
+http://videos.nxplay.com.br/hls/e67f41dab00d11eba734a6d2195708a6/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609c478902dbb_6f754560d513dbb8aa245db9302f7b5c.jpg" group-title="Filmes On Demand", Caçador de Demônios
+http://videos.nxplay.com.br/hls/f658558e94be11ebbf144ad26fcc6a00/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609b324eb2a52_8803b1884d71b1664cebc7cf89701e16.jpg" group-title="Filmes On Demand", Assassinos de Guerra
+http://videos.nxplay.com.br/hls/29e4931094c211eb825d1ae7d6fae385/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609b36b943177_59471751e08f0a2955c41a9f507c026d.com" group-title="Filmes On Demand", Davi vs Golias: A Batalha da Fé
+http://videos.nxplay.com.br/hls/645957b0972911ebaa7c2e6309427d4e/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609b2d9ea87b4_bfc4ab3afe58dcf4e9bf2758eacf28cd.jpg" group-title="Filmes On Demand", Mortos Vivos
+http://videos.nxplay.com.br/hls/810f3dda971911ebb4a6360d164a7ec0/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/609a60597df51_53436ac4598dd197ee906c52c906a2d3.jpg" group-title="Filmes On Demand", O Garoto Formiga 3
+http://videos.nxplay.com.br/hls/01c89d58966711eb93abda543062cc9f/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60787aa2c837c_dd8051445cc2f5f4f741b1c497f31602.jpg" group-title="Filmes On Demand", Força de Elite
+http://videos.nxplay.com.br/hls/50c649da9d8a11eb8d0eca346366538e/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/604d35ac0e636_2e3cc02ac1f6f0347c71a8ec633c4095.jpg" group-title="Filmes On Demand", Viking: Os Pergaminhos Sagrados
+http://videos.nxplay.com.br/hls/cb2e4a3c7e9b11ebaf1b8a46d49a028c/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/603440cfcc7fc_c95f19d56f23a0a7c18fd6be051e25af.jpg" group-title="Filmes On Demand", Operação Kickbox 3: Sem Retorno
+http://videos.nxplay.com.br/hls/d0a38146726e11eb8da81ef2ce598815/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60876ca787967_36087250d3234f40b1fa4efe1a2803c8.jpg" group-title="Filmes On Demand", Operação Kickbox 2: Vencer ou Vencer
+http://videos.nxplay.com.br/hls/8680bbe2727311eb8aaf1ed6221cc2a1/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/604d36e2d5795_5d33cd821b121f0702ec2d344a64a305.jpg" group-title="Filmes On Demand", Três Reis
+http://videos.nxplay.com.br/hls/e26648ee71ad11eb91692af159ca3888/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/603440ca3eb68_a1a193df0621f77a8df54e329031c1e0.jpg" group-title="Filmes On Demand", Quebrando Regras
+http://videos.nxplay.com.br/hls/a52d835271ad11ebaae25a33bbd44232/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/603440cde0ac0_8327077ef71c29687ba3bd6e9522b5ce.jpg" group-title="Filmes On Demand", O Senhor das Armas
+http://videos.nxplay.com.br/hls/492e896271a211eb83675eaa762f7c65/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/6032c82e63e40_1f40abf7d1bb1693cd477fe719f80d6a.jpg" group-title="Filmes On Demand", A Força de um Campeão
+http://videos.nxplay.com.br/hls/95ed67aa746811eb912a3669bdd32c26/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60149c7cd8bc9_10ed1db7f7d6da7b70c4ff87af972973.jpg" group-title="Filmes On Demand", O Atirador
+http://videos.nxplay.com.br/hls/553a9228604511eba783f64eb82ebb6d/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/600976d5d986a_f4250bea9689502d6bf67c857e1a9c11.jpg" group-title="Filmes On Demand", Caçadores de Emoção
+http://videos.nxplay.com.br/hls/cf5172ca5f0f11eb825282762afc380b/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/600e9376d16d4_3fe19d055725c3624786b7b74ce23d96.jpg" group-title="Filmes On Demand", Vencer ou Morrer
+http://videos.nxplay.com.br/hls/3a540eb25ed811eb8559a29e33f7739f/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/6009773581898_33d75c4d7b03e760d0fccd5526e2baf0.jpg" group-title="Filmes On Demand", Fúria sobre Rodas
+http://videos.nxplay.com.br/hls/9d8ba3de5c3d11eb8a4dc6b362fdcffb/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/6009773747bf9_24fe961447b24b6f1fe2a023371f1404.jpg" group-title="Filmes On Demand", Jogo Perverso
+http://videos.nxplay.com.br/hls/ad5bed9a5bdf11eb837c0edac258a9a1/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5ffe34a1ced12_a43bf13ba39df5addd58d5d1f0af6892.jpg" group-title="Filmes On Demand", Incontrolável
+http://videos.nxplay.com.br/hls/7ecd94ae548911eba6eee643dac023f3/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb698892f8ae_4bd95eca8f3e97b5e8dc154a1f48cebf.jpg" group-title="Filmes On Demand", A Fúria do Dragão
+http://videos.nxplay.com.br/hls/928faab82a8111ebb5703ef0b7ac8211/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb6988b158ee_ff0ad3b02ad36013ec5deca5012570d9.jpg" group-title="Filmes On Demand", Operação Dragão
+http://videos.nxplay.com.br/hls/2c2599b22a7d11ebbad0c2143793d6ba/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb699c19f3ab_bc172b9bb30b3f39f1d95cd2cc34492b.jpg" group-title="Filmes On Demand", O Dragão Chinês
+http://videos.nxplay.com.br/hls/8f84339c2a7d11eb8f40a22d9be76c4c/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb6988c99cb2_2afbd4ff6f11e115610b71b1e9da3ac1.png" group-title="Filmes On Demand", Jogo da Morte 2
+http://videos.nxplay.com.br/hls/ceb0d2462a7d11eb9ca3729d567205ff/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb5aa1060ded_1f69e5820fd7e5eec714a1e7ad12f28b.jpg" group-title="Filmes On Demand", O Vôo do Dragão
+http://videos.nxplay.com.br/hls/276a8c9829f111eba0e77a1a99da34f5/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5fb2c2dcaec4a_c4f004118eae6ccbef69c0809b5b8251.png" group-title="Filmes On Demand", Jogo da Morte
+http://videos.nxplay.com.br/hls/cd09171c283111eb8c72ee71b597166f/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f80dcc15445d_b47452bb97ac18c4c31e8c847ca84dc1.jpg" group-title="Filmes On Demand", Homem-Aranha 2
+http://videos.nxplay.com.br/hls/623f32200a7411ebae4bfa8d58eb2f0a/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f7bb935b2a79_8c5d6d90f1b4b90889bd5893915e309b.jpg" group-title="Filmes On Demand", Homem-Aranha 3
+http://videos.nxplay.com.br/hls/c41bf258076311eb8e1ecad7bf5d214a/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f64f1ed1210b_a49f38a593ce76a555050f08411300bb.jpg" group-title="Filmes On Demand", Juízo Final
+http://videos.nxplay.com.br/hls/68b01336f9d011ea87dedeedee756b65/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f63944701812_8ae5b2e589379d8058b74cdee9b74619.jpg" group-title="Filmes On Demand", Entrando Numa Roubada
+http://videos.nxplay.com.br/hls/1f11ee38f90e11ea9fc78a7b5ee1a780/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f637486bc8b0_de9367a8abd03cdc3b74792c077167b6.jpg" group-title="Filmes On Demand", Passageiro 57
+http://videos.nxplay.com.br/hls/e6b02918f8fb11eab710c2259f23e6a7/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f63748170e0c_e8c7a03fc4494970fe47b3ade10954a6.jpg" group-title="Filmes On Demand", Contra o Tempo
+http://videos.nxplay.com.br/hls/9e1b1694f8fc11eaabae6e6020ee0654/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f6374830c0ee_1afd51778cea4468c8dfedbccb0c6f3a.jpg" group-title="Filmes On Demand", Highlander II: A Ressurreição
+http://videos.nxplay.com.br/hls/755535e8f8fa11ea99c68eb09906c3ae/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f622ca79261f_4973c68626b600d7c0b24e5da74cef40.jpg" group-title="Filmes On Demand", Resposta Armada
+http://videos.nxplay.com.br/hls/c32691d0f82911ea88136eda32aac929/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f60c22c80d69_d45b3aa4c60b9a8d7d470c3b2b4e00ce.jpg" group-title="Filmes On Demand", Esporte Sangrento
+http://videos.nxplay.com.br/hls/4b312a64f75211eab45a5a0afa625915/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f5d2e64e63dc_c3d002692a9b22afabae4a26ec772735.jpg" group-title="Filmes On Demand", KickBoxer: O Desafio do Dragão
+http://videos.nxplay.com.br/hls/c0795f2ef52e11eaa47dbec2fa2f0b80/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f5ce4f47349c_da249f5f0f5f9d1e1ae8959942bf5971.jpg" group-title="Filmes On Demand", Keoma
+http://videos.nxplay.com.br/hls/a5e82e32f50211eaadfb96ee8043de76/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f5ce47f642bb_df37d23a11e998d8d99655b028b36184.jpg" group-title="Filmes On Demand", Agente 86
+http://videos.nxplay.com.br/hls/474fc3c6f50211ea9fce960e9a2d83d0/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f5c016f38275_8fce6375c7d202e5faa2aeefe5142b8e.jpg" group-title="Filmes On Demand", Howard o Super-Herói
+http://videos.nxplay.com.br/hls/7ec8a104f47d11ea9d68d2af0407f1a2/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f5bb887d85ca_03ee209f76598a3684797143cbf45bb1.jpg" group-title="Filmes On Demand", Resident Evil: O Hóspede Maldito
+http://videos.nxplay.com.br/hls/616d9554f45211eaad6b5eab1a4ed31c/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/5f4ece9d6e352_a8d1d99aa85a751b14a78713c69a1caf.jpg" group-title="Filmes On Demand", Doom: A Porta do Inferno
+http://videos.nxplay.com.br/hls/0f85a676f1f711eaadf152920f2b401c/video_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/08/19/16/52/409381.jpg" group-title="Filmes On Demand", Herança de Sangue
+https://www.googleapis.com/drive/v3/files/1pZFF0Ng-YOrf4gRqTmE876ZqAQi8iYey?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://cdn.cinepop.com.br/2015/05/jogoduro_1.jpg" group-title="Filmes On Demand", Jogo Duro
+https://www.googleapis.com/drive/v3/files/1EF88EH4IrhhIMbHy7KSZ-aB4Mcegoebv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCNAIy72qIpVqVuMLFFMyB1Nw4Gkxoj2MteTNvqsRm88SVclWE" group-title="Filmes On Demand", Nada Santo
+https://www.googleapis.com/drive/v3/files/18d3Cib_bj1TExpmewhgydAkJ-CXZBErr?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://www.omelete.com.br/imagens/cinema/news/last_samurai/poster2p.jpg" group-title="Filmes On Demand", O Ultimo Samurai
+https://www.googleapis.com/drive/v3/files/1TL2VTwnCKEHAIWJsXV5rV1VC4wj0EToe?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/CN2TMqDWHbRH4Z5Io8_pHq4EEgo=/fit-in/290x478/smart/media/movies/covers/2018/02/rede-de-mentiras-dvd-original-D_NQ_NP_14441-MLB4574504763_062013-F.jpg" group-title="Filmes On Demand", Rede de Mentiras
+https://www.googleapis.com/drive/v3/files/1RrQihNBZ4JtPiLQtIalvou94Rl5iSia7?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/d1/71/5d/d1715dce-1d5e-583f-1146-42cc0e3a7717/contsched.xdvvptaj.lsr/268x0w.jpg" group-title="Filmes On Demand", Batman cavaleiro das trevas Resurge
+https://www.googleapis.com/drive/v3/files/0B3Q30jJQa39qTXRFLTdvMTg1aUk?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/drone-filme-D_NQ_NP_954701-MLB27860959159_072018-F.jpg" group-title="Filmes On Demand", Drone
+https://www.googleapis.com/drive/v3/files/1ObrT1Ms6a9rYJ0nGaaSNyM5yzoETdVCQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-hancock-will-smith-lacrado-original-D_NQ_NP_810310-MLB27974873602_082018-F.jpg" group-title="Filmes On Demand", Hancock
+https://www.googleapis.com/drive/v3/files/1Ra6U8YF2jtxSZ-wQt4ks4xOY3yzgFIeO?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/210/090/21009018_20130528193928815.jpg" group-title="Filmes On Demand", Conexao Jamaica
+https://www.googleapis.com/drive/v3/files/1SGBmY5eBYSPjaZ4k1Qj-wcuUBYwPVbXq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/02/15/20/16/2590161.jpg" group-title="Filmes On Demand", Operaçao Fronteira
+https://www.googleapis.com/drive/v3/files/14mM4k_8q1nA2bVsom1B7VVH4wmeR1k2_?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/10/01/19/34/5754782.jpg" group-title="Filmes On Demand", Maquinas Mortais
+https://www.googleapis.com/drive/v3/files/1xU72WecIQJtx-Ms6yGDXjnqIARpE6zy5?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/08/29/17/10/1073609.jpg" group-title="Filmes On Demand", Refem do Jogo
+https://www.googleapis.com/drive/v3/files/1xj-k5C8K-2YvcfbRKAnKM3A7eNwG8le-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3lS60k8jvX25ZizXjsuvOKAj-RPtnRV4y6WPcXPRA7P5uOrMx" group-title="Filmes On Demand", Bumblebee
+https://www.googleapis.com/drive/v3/files/1_VZnvg8dpFA5ZlJNQDk2zv08id68dPFc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000018564232/source_big/Le_Bout_du_monde.jpg" group-title="Filmes On Demand", Fim do Mundo
+https://www.googleapis.com/drive/v3/files/1UD8eVpQ1nftkkuQM9wFTPk99bSgYUDMI?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/King_Arthur_Legend_of_the_Sword.jpg" group-title="Filmes On Demand", Rei Arthur a Lenda da Espada
+https://www.googleapis.com/drive/v3/files/1cRRCtcdcMa2K_v0lRbsGTVwDSDsrLlUn?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMS_z5HU8fidOOk9ybOLwM_-bewXg_OAOxoh9IPIHOG4j-canp" group-title="Filmes On Demand", Quebrando.Regras
+https://www.googleapis.com/drive/v3/files/1-RIhA3krav0AVY9BiImw3Q6uP2-XgtV4?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Skyscraper_%282018%29.jpg" group-title="Filmes On Demand", Arranha ceu
+https://www.googleapis.com/drive/v3/files/1KAh8EyO_Ex0V958BlJ5JwtIayfMJ5whZ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_215_290/pictures/19/06/17/09/31/4596164.jpg" group-title="Filmes On Demand", Rota de fuga 3
+https://www.googleapis.com/drive/v3/files/17jbugsfQmmDW6NbU8_K7wAcd7jFjmXna?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://musicart.xboxlive.com/7/46b41000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" group-title="Filmes On Demand", Quebrando Regras 2
+https://www.googleapis.com/drive/v3/files/1c1palxWYW5Y1VVjOzoWGsyRXBmwXxOZR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/03/23/21/26/2289076.jpg" group-title="Filmes On Demand", Covil de Ladres
+https://www.googleapis.com/drive/v3/files/1vUEJfz68JRFeDs2D0bCwJVl1xk-vnJIQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0a/Ben-Hur_2016_poster.png" group-title="Filmes On Demand", Ben Hur
+https://www.googleapis.com/drive/v3/files/1olIXpFCclzvxMUXJb-UpdigxSivdq6ls?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91-X1jZnsFL._RI_.jpg" group-title="Filmes On Demand", Free Solo
+https://www.googleapis.com/drive/v3/files/1aNLH6eWlCzRifRJOr_HR8J-FSu3kIoWr?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/03/18/22/20/3237112.jpg" group-title="Filmes On Demand", Justiça Entre a Lei e a Vingança
+https://www.googleapis.com/drive/v3/files/1-EsK8LXQwK_gcRkaxb306aoZ6Kkg-Jnb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/GmfRp1Ce2JSh8TvzMqFKyeX7pns=/fit-in/290x478/smart/media/movies/covers/2018/09/Kamp_Holland_2016.jpg" group-title="Filmes On Demand", Kamp Holland
+https://www.googleapis.com/drive/v3/files/1boo1AOeqi6hpRS_aCOSbXxQEsInBeHec?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/01/03/20/55/3060784.jpg" group-title="Filmes On Demand", Close
+https://www.googleapis.com/drive/v3/files/0Bw2_jyUzpJaGR1BSSlJCdE1YVHc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/05/23/07/54/1043302.jpg" group-title="Filmes On Demand", Gelo em Chamas
+https://www.googleapis.com/drive/v3/files/1FyxNpjEHiacIoeOj46Z8v0UxqBG1utk7?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/c_215_290/pictures/18/09/14/00/08/1156447.png" group-title="Filmes On Demand", Bom Race
+https://www.googleapis.com/drive/v3/files/1ooi2dKIpwwpmr96XcNOlLJKSsl98fJAR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://filmesflix.online/wp-content/uploads/2018/05/Prece-ao-Nascer-do-Dia-2019-2-185x278.jpg" group-title="Filmes On Demand", Uma Prece- antes do Amanhecer
+https://www.googleapis.com/drive/v3/files/1Am8GqDGiXA2Paq4ojQLuqgqBxL4hSgZe?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/06/19/13/51/0647704.jpg" group-title="Filmes On Demand", O Protetor 2
+https://www.googleapis.com/drive/v3/files/1ENU1lc-oUu3RAwOhB4-H7amaoJJSY502?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://www.baixedetudo.org/imagens/comboio-furioso-210x300.jpg" group-title="Filmes On Demand", Comboio Furioso
+https://www.googleapis.com/drive/v3/files/19Tmsn0Bq_rmT00qrwO-XKiG6F7YjZkHN?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7jgaXD3Wq1DFjZn7SFRjQY89GQa5u5oC0RzIzVwxFCvtjohVg" group-title="Filmes On Demand", 15 Minutos de guerra
+https://www.googleapis.com/drive/v3/files/1_AVD3MgqI9ylEADQgZW_w4t7NptGwEkv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/10/05/10/06/287210.jpg" group-title="Filmes On Demand", Crimes na Madrugada
+https://www.googleapis.com/drive/v3/files/1EFm2BWQENXCAmIhuB_JlRm7pq2llQL3j?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCsqRIyny_jsMgLQ-dZLtN0Mave4wkaXDyFnlRFKSzeaIMVNVc" group-title="Filmes On Demand", Encantado
+https://www.googleapis.com/drive/v3/files/1Azm5JubxYJsKzGNRbqEn_1lF_K4EQGZ-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://abrilmdemulher.files.wordpress.com/2019/02/dumbo3.jpg?quality=90&strip=info" group-title="Filmes On Demand", Dumbo
+https://www.googleapis.com/drive/v3/files/1BxIfdS5Em7hgCin-fwVVFh0DBjVgCAqM?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/m.media-amazon.com/images/M/MV5BNzQ3N2I2MjUtNGYzYS00NDJkLWI1MWQtMGE2Njc4OTQyYWE0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_CR0,0,701,1000_AL_.jpg?resize=351%2C500&ssl=1" group-title="Filmes On Demand", Cowboy Bebop
+https://www.googleapis.com/drive/v3/files/0B64bZFdxnOPtWkFNTjFQMTZ0eDQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/so.058478/0058478_335.jpg" group-title="Filmes On Demand", Pedro Coelho
+https://www.googleapis.com/drive/v3/files/18l7Sv2mKxErkdm4TPc5aTcm8vuHwCCJl?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-irmo-urso-semi-novo-D_NQ_NP_965894-MLB31419761054_072019-F.jpg" group-title="Filmes On Demand", Irmao Urso
+https://www.googleapis.com/drive/v3/files/15tOwtnDBBi4zoHWHM1MGTXqTeIMN88Gd?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/13916-cartaz.jpg" group-title="Filmes On Demand", Angry Birds
+https://www.googleapis.com/drive/v3/files/0B4rTiMxjXzL6ZWVBUHhrTmtHNHc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdi7ckj6re2yMMysPAAiv0l4Sey1qfm9_hn4kJW7CCcwIFB8d" group-title="Filmes On Demand", Frozen uma Aventura Congelante
+https://www.googleapis.com/drive/v3/files/0B1ajV4yek-QvTF9fc3ZuMmVPT28?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/p3ahb85HJIQbtoQ70X8k1ycemBazDCLh7nsgqLiNxSdDk8EwSn5BTrOMmUcxbS5ysfZd1QpXOiJUcPMIKAJnv_ntm8r-4jCEvTE" group-title="Filmes On Demand", Um Time Show de Bola
+https://www.googleapis.com/drive/v3/files/0BznFyrQoewybeTN1bFVPNm5TQ2s?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/05/20/54/1435524.jpg" group-title="Filmes On Demand", A Menina e o Leão
+https://www.googleapis.com/drive/v3/files/112W2RjsBYCRlDl-aBwM23e7tYBl9Phiz?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27184563%27&EntityType=%27Item%27&EntityId=%2712207%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous" group-title="Filmes On Demand", Largadas em Familia
+https://www.googleapis.com/drive/v3/files/189HFmcGVqOzlEMW3bG2WSc_GViHhl12w?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/18/10/15/23/27/0824054.jpg" group-title="Filmes On Demand", Sexo Musica e Amor
+https://www.googleapis.com/drive/v3/files/1OrDDdP8TuXTCNlIX3FQomn-SXU8zMBgX?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/05/06/14/48/2211976.jpg" group-title="Filmes On Demand", Oitava Série
+https://www.googleapis.com/drive/v3/files/1L3iFP0U9mfklSFxi3_3LmbqAK-jsvB-_?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://assetsgn.nowonline.com.br/assets/p14426484_v_v8_ab.jpg?api_key=snfwq54bnzvgucd7cqvgt86r" group-title="Filmes On Demand", Missao Amsterdan
+https://www.googleapis.com/drive/v3/files/1oRaKVZYCJIV2tD6_K5047GdfXFXSoPbv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/26/88/20393870.jpg" group-title="Filmes On Demand", Os Estragos de Sábado a Noite
+https://www.googleapis.com/drive/v3/files/15snNn403QN8Zt6z4BJEcsyEDZC0CnOGr2Q?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/MammaMiaTeaserPoster.JPG/200px-MammaMiaTeaserPoster.JPG" group-title="Filmes On Demand", Mamma Mia
+https://www.googleapis.com/drive/v3/files/1O_-gTpnixXTIdnO6P7RBT8kRmHoHOSa_?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/kung-fu-yoga-legendado-no-lancado-no-brasil-D_NQ_NP_729793-MLB25704013887_062017-F.jpg" group-title="Filmes On Demand", Kung Fu Yoga
+https://www.googleapis.com/drive/v3/files/1WswYxAuign0jyqx76a__pFxjwXErTEk4?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS5nPXDIvyK7l6l5Jv9fNsTu3FfRwslWSpCyTYnb3KwMA72e4h" group-title="Filmes On Demand", Green Book o Guia
+https://www.googleapis.com/drive/v3/files/1n6V8MIsRCey_oWWB1oK3W9c3qIDtMnHu?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/23/American_pie_poster_promocional.jpg" group-title="Filmes On Demand", Amarican pie
+https://www.googleapis.com/drive/v3/files/1DNfElPy0NPOvGaTxYrPvD40RLNYJJib6?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GtzIxoTpXxA/W2pfMhmFKEI/AAAAAAAACwU/DoCBUGRDDC8hb3x1kl-Y2dUZ0x12lHWWACLcBGAs/s1600/tal-pai-tal-filha.jpg" group-title="Filmes On Demand", Tal Pai Tal Filha
+https://www.googleapis.com/drive/v3/files/196QE7vbU9qyNnoyBxpn42fF3biPCBwvc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/01/28/14/51/0332319.jpg" group-title="Filmes On Demand", Poderia me Perdoar
+https://www.googleapis.com/drive/v3/files/1S2Mur6MyRS1JPoPS7jxfILxE-ylOOv4u?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/06/15/15/38/0683410.jpg" group-title="Filmes On Demand", Operaçao Supletivo
+https://www.googleapis.com/drive/v3/files/1-HYaW8aOq1YNYqlJZ_Bhxop_L4FAnWDq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/lio.062456/0062456_335.jpg" group-title="Filmes On Demand", Meu Ex e um Espiao
+https://www.googleapis.com/drive/v3/files/1M6-QMM71IUv2Y7jNrKLzY84oPrwWAjz5?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://filmestipo.com/img_pt/movie/thumb/8d/28529.jpg" group-title="Filmes On Demand", Loucuras em Familia
+https://www.googleapis.com/drive/v3/files/1qCmSqZxRfHwb4BJes8XtlcQiHXSwbcl5?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/10/13/16/24/559515.jpg" group-title="Filmes On Demand", Pai em Dose Dupla
+https://www.googleapis.com/drive/v3/files/1IRxJplzjeTTapNb5Yh7sZ2kXCutzKvzH?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://www.cafecomfilme.com.br/media/k2/items/cache/8eb293a9824f4436c5f329c5e3443a03_XL.jpg?t=20180923_174801" group-title="Filmes On Demand", Permissao
+https://www.googleapis.com/drive/v3/files/1VGjRyEZb912sJ07oHPyhBXzYVL7wV79k?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/image.tmdb.org/t/p/w300/9oFedK51xWdnOkzBXbVhsbokPYk.jpg" group-title="Filmes On Demand", Te Pego La Fora
+https://www.googleapis.com/drive/v3/files/1RJIZldQdwXsZC3eF4N5lEWbMr56Nv88E?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/01/29/17/23/1705121.jpg" group-title="Filmes On Demand", Quando Nos nos conhecemos
+https://www.googleapis.com/drive/v3/files/16FCk4jo-wsIXCQerR2p9dhSuAMUFIjTc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2019/06/o-soldado-de-cristo_t272116.jpg" group-title="Filmes On Demand", O Soldado de Cristo
+https://www.googleapis.com/drive/v3/files/11fSHuIWHCoJFpxEYEFC5zkvKq9b-8rXL?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/21/97/20091647.jpg" group-title="Filmes On Demand", Um Homem de Sorte
+https://www.googleapis.com/drive/v3/files/1Qq_l6JT-RiL-vaASJVmlk4B-rFupr5ZZ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kYlTjb8RL._AC_SY550_.jpg" group-title="Filmes On Demand", Atraçao Perigosa
+https://www.googleapis.com/drive/v3/files/1vT_HFctF2mpA6cY1lSEmsEjpA6YQP-Xe?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/16/06/16/19/01/273546.jpg" group-title="Filmes On Demand", Nosso Fiel Traidor
+https://www.googleapis.com/drive/v3/files/1OLunw85n8cv3aSM8au-GnZSDt3MSRvl9?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img2.acsta.net/pictures/17/10/11/13/49/2584230.jpg" group-title="Filmes On Demand", Bad Match
+https://www.googleapis.com/drive/v3/files/1r5aWxko5SoKlsS3KBV9zqHUtLtECGo5-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/19/01/31/18/27/2810453.jpg" group-title="Filmes On Demand", Todos Ja Sabem
+https://www.googleapis.com/drive/v3/files/1Ve7FcYqti1_psN9rsbV5-QV_E3__Ig3H?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Rádios", Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U241Gsq.png" group-title="Rádios", Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cYXgX4G.png" group-title="Rádios", Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KX2Yeah.png" group-title="Rádios", Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JzHYtiE.png" group-title="Rádios", Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Bx8NjTk.png" group-title="Rádios", Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ivdf27M.png" group-title="Rádios", Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6sLoNZn.png" group-title="Rádios", Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ClakDxW.png" group-title="Rádios", Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dT8ZOeg.png" group-title="Rádios", Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WZrYSBf.gif" group-title="Rádios", Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oRYDaYf.png" group-title="Rádios", Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TKZ90g5.png" group-title="Rádios", Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ttPklRN.png" group-title="Rádios", Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/I5y8DaH.png" group-title="Rádios", Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
